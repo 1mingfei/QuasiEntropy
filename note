@@ -1,8 +1,17 @@
 crystal:
-working on: binary.vasp
-9.255271529907413e-07
 working on: pure.vasp
 -0.0
+working on: binary.vasp
+9.255271529907413e-07
+
+GB:
+working on: order_GB.vasp
+2.619774854672676e-06
+working on: disordered1.vasp
+1.0808530230085013e-05
+working on: disordered2.vasp
+1.2686280283828153e-05
+
 amorphous:
 working on: amorphous.vasp
 0.003636492309584704
